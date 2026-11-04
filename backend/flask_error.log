@@ -1,0 +1,195 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
+Press CTRL+C to quit
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+127.0.0.1 - - [18/Oct/2026 23:49:53] "GET /assets/index-DzF15w0e.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 23:49:53] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 23:55:14] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:14] "GET /assets/index-CUW4Jdku.js HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:14] "GET /assets/index-DzF15w0e.css HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:14] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 23:55:15] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:15] "GET /assets/index-CUW4Jdku.js HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:15] "GET /assets/index-DzF15w0e.css HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:55:15] "GET /api/data HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\.venv\\Lib\\site-packages\\flask_cors\\core.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /assets/index-CUW4Jdku.js HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /assets/index-DzF15w0e.css HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /assets/index-CUW4Jdku.js HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /assets/index-DzF15w0e.css HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 23:57:43] "GET /api/data HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\.venv\\Lib\\site-packages\\anyio\\__init__.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\check_db.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\process.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+127.0.0.1 - - [19/Oct/2026 00:07:13] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:07:13] "GET /assets/index-CUW4Jdku.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:07:13] "GET /assets/index-DzF15w0e.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:07:13] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:08:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:08:11] "GET /assets/index-R67mudmb.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:08:11] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:08:11] "GET /api/data HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\backfill.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\check_db.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+127.0.0.1 - - [19/Oct/2026 00:10:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:10:36] "GET /assets/index-R67mudmb.js HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:10:36] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:10:36] "GET /api/data HTTP/1.1" 200 -
+127.0.0.1 - - [19/Oct/2026 00:11:37] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:37] "GET /assets/index-R67mudmb.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:37] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:37] "GET /api/data HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\backend\app.py", line 514, in api_data
+    rows = conn.execute("SELECT * FROM invoices ORDER BY created_at DESC").fetchall()
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: invoices
+127.0.0.1 - - [19/Oct/2026 00:11:41] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:41] "GET /assets/index-R67mudmb.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:41] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:41] "GET /api/data HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\backend\app.py", line 514, in api_data
+    rows = conn.execute("SELECT * FROM invoices ORDER BY created_at DESC").fetchall()
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: invoices
+127.0.0.1 - - [19/Oct/2026 00:11:42] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:42] "GET /assets/index-R67mudmb.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:42] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:11:42] "GET /api/data HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\backend\app.py", line 514, in api_data
+    rows = conn.execute("SELECT * FROM invoices ORDER BY created_at DESC").fetchall()
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: invoices
+ * Detected change in 'C:\\Users\\Neeraj\\AppData\\Local\\Python\\pythoncore-3.13-64\\Lib\\pdb.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+ * Debugger is active!
+ * Debugger PIN: 195-730-076
+127.0.0.1 - - [19/Oct/2026 00:18:19] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:18:19] "GET /assets/index-R67mudmb.js HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:18:19] "GET /assets/index-Dw2vDBis.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2026 00:18:19] "GET /api/data HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\Neeraj\\OneDrive\\Desktop\\DAV\\backend\\app.py', reloading
+ * Restarting with watchdog (windowsapi)
+Traceback (most recent call last):
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\backend\app.py", line 108, in <module>
+    init_db()
+    ~~~~~~~^^
+  File "C:\Users\Neeraj\OneDrive\Desktop\DAV\backend\app.py", line 95, in init_db
+    conn.execute(f"ALTER TABLE invoices ADD COLUMN {col_name} {col_type}")
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: duplicate column name: customer

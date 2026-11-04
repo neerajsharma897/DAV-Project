@@ -1,0 +1,5 @@
+.env
+.venv
+backend/_pycache_
+primeval-jet-492308-h3-69bebad12364.json
+research/**
